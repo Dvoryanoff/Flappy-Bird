@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6675b7e1-05b9-4f03-a4d8-438745a62c24" name="Default Changelist" comment="Backgroung, sprites imported">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Flappy-Bird/.idea/contentModel.xml" afterDir="false" />
+    <list default="true" id="6675b7e1-05b9-4f03-a4d8-438745a62c24" name="Default Changelist" comment="Add control-button(spase, mouse1, touch)">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Flappy-Bird/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Flappy-Bird/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player.cs" afterDir="false" />
     </list>
@@ -57,6 +56,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -83,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655314650039</updated>
-      <workItem from="1655314672689" duration="1443000" />
+      <workItem from="1655314672689" duration="2076000" />
     </task>
     <task id="LOCAL-00001" summary="Backgroung, sprites imported">
       <created>1655314716474</created>
@@ -92,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655314716474</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add control-button(spase, mouse1, touch)">
+      <created>1655316161411</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655316161411</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,7 +127,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Backgroung, sprites imported" />
-    <option name="LAST_COMMIT_MESSAGE" value="Backgroung, sprites imported" />
+    <MESSAGE value="Add control-button(spase, mouse1, touch)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add control-button(spase, mouse1, touch)" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -124,9 +137,9 @@
       <screen x="0" y="40" width="1536" height="824" />
     </state>
     <state x="277" y="97" key="SettingsEditor/0.40.1536.824@0.40.1536.824" timestamp="1655315018050" />
-    <state x="361" y="185" key="Vcs.Push.Dialog.v2" timestamp="1655314739765">
+    <state x="361" y="185" key="Vcs.Push.Dialog.v2" timestamp="1655316167170">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state x="361" y="185" key="Vcs.Push.Dialog.v2/0.40.1536.824@0.40.1536.824" timestamp="1655314739765" />
+    <state x="361" y="185" key="Vcs.Push.Dialog.v2/0.40.1536.824@0.40.1536.824" timestamp="1655316167170" />
   </component>
 </project>
