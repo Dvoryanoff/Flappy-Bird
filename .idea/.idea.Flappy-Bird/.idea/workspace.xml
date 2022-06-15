@@ -19,9 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6675b7e1-05b9-4f03-a4d8-438745a62c24" name="Default Changelist" comment="Add control-button(spase, mouse1, touch)">
+    <list default="true" id="6675b7e1-05b9-4f03-a4d8-438745a62c24" name="Default Changelist" comment="Bird animation added(spriteRenderer)">
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Parallax.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Flappy-Bird/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Flappy-Bird/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Flappy-Bird/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Flappy-Bird/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Background.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Background.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Ground.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Ground.png.meta" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,11 +36,13 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Parallax.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Parallax.cs" />
       </list>
     </option>
   </component>
@@ -88,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655314650039</updated>
-      <workItem from="1655314672689" duration="2076000" />
+      <workItem from="1655314672689" duration="3268000" />
     </task>
     <task id="LOCAL-00001" summary="Backgroung, sprites imported">
       <created>1655314716474</created>
@@ -104,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655316161411</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Bird animation added(spriteRenderer)">
+      <created>1655316977363</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655316977363</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,7 +140,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Backgroung, sprites imported" />
     <MESSAGE value="Add control-button(spase, mouse1, touch)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add control-button(spase, mouse1, touch)" />
+    <MESSAGE value="Bird animation added(spriteRenderer)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bird animation added(spriteRenderer)" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -137,9 +150,9 @@
       <screen x="0" y="40" width="1536" height="824" />
     </state>
     <state x="277" y="97" key="SettingsEditor/0.40.1536.824@0.40.1536.824" timestamp="1655315018050" />
-    <state x="361" y="185" key="Vcs.Push.Dialog.v2" timestamp="1655316167170">
+    <state x="361" y="185" key="Vcs.Push.Dialog.v2" timestamp="1655316991706">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state x="361" y="185" key="Vcs.Push.Dialog.v2/0.40.1536.824@0.40.1536.824" timestamp="1655316167170" />
+    <state x="361" y="185" key="Vcs.Push.Dialog.v2/0.40.1536.824@0.40.1536.824" timestamp="1655316991706" />
   </component>
 </project>
