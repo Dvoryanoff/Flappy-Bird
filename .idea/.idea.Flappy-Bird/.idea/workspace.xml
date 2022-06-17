@@ -19,11 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6675b7e1-05b9-4f03-a4d8-438745a62c24" name="Default Changelist" comment="Parallaz added(background moving...)">
-      <change afterPath="$PROJECT_DIR$/Assets/Materials.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/Background.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/Background.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Parallax.cs.meta" afterDir="false" />
+    <list default="true" id="6675b7e1-05b9-4f03-a4d8-438745a62c24" name="Default Changelist" comment="Ground added">
+      <change afterPath="$PROJECT_DIR$/Assets/Prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefab/Pipes.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefab/Pipes.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Flappy Bird.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Flappy Bird.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1655314650039</updated>
       <workItem from="1655314672689" duration="3372000" />
+      <workItem from="1655447103009" duration="652000" />
     </task>
     <task id="LOCAL-00001" summary="Backgroung, sprites imported">
       <created>1655314716474</created>
@@ -122,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655318028671</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Ground added">
+      <created>1655447132272</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655447132272</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +148,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -148,7 +157,8 @@
     <MESSAGE value="Add control-button(spase, mouse1, touch)" />
     <MESSAGE value="Bird animation added(spriteRenderer)" />
     <MESSAGE value="Parallaz added(background moving...)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Parallaz added(background moving...)" />
+    <MESSAGE value="Ground added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ground added" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -157,9 +167,9 @@
       <screen x="0" y="40" width="1536" height="824" />
     </state>
     <state x="277" y="97" key="SettingsEditor/0.40.1536.824@0.40.1536.824" timestamp="1655315018050" />
-    <state x="361" y="185" key="Vcs.Push.Dialog.v2" timestamp="1655318037332">
+    <state x="361" y="185" key="Vcs.Push.Dialog.v2" timestamp="1655447147838">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state x="361" y="185" key="Vcs.Push.Dialog.v2/0.40.1536.824@0.40.1536.824" timestamp="1655318037332" />
+    <state x="361" y="185" key="Vcs.Push.Dialog.v2/0.40.1536.824@0.40.1536.824" timestamp="1655447147838" />
   </component>
 </project>
