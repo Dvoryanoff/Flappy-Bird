@@ -7,8 +7,10 @@ public class Player : MonoBehaviour
     private int spriteIndex;
     private Vector3 direction;
     public float gravity = -9.8f;
+
     public float strength = 5f;
 
+//
     private void Awake()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
