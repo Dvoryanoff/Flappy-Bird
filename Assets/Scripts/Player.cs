@@ -10,7 +10,7 @@ public class Player : MonoBehaviour
 
     public float strength = 5f;
 
-//
+
     private void Awake()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
