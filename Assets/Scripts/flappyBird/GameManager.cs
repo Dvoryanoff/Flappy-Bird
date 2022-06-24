@@ -1,22 +1,19 @@
 using TMPro;
 using UnityEngine;
 
-public class GameManager : MonoBehaviour
-{
+public class GameManager : MonoBehaviour {
     public Player player;
     private int score;
     public TMP_Text scoreText;
     public GameObject playButton;
     public GameObject gameOver;
 
-    private void Awake()
-    {
+    private void Awake () {
         Application.targetFrameRate = 60;
         Pause();
     }
-
-    public void Play()
-    {
+    
+    public void Play () {
         score = 0;
         scoreText.text = score.ToString();
         playButton.SetActive(false);
@@ -29,22 +26,19 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    public void Pause()
-    {
+    public void Pause () {
         Time.timeScale = 0;
         player.enabled = false;
     }
 
-    public void Gameover()
-    {
+    public void Gameover () {
         gameOver.SetActive(true);
         playButton.SetActive(true);
 
         Pause();
     }
 
-    public void IncreaseScore()
-    {
+    public void IncreaseScore () {
         score++;
         scoreText.text = score.ToString();
     }
